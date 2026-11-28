@@ -30,28 +30,6 @@ Construo APIs REST com Java e Spring Boot e aplico IA com Spring AI e LangChain4
 
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square) ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
 
-## Projetos em destaque
-
-### [gdg2024](https://github.com/vieira-tg/gdg2024)
-Três aplicações Spring Boot com Spring AI e LangChain4j, integrando OpenAI e Ollama local.
-
-`Java 21` `Spring Boot` `Spring AI` `LangChain4j` `Maven`
-
-### [campuspartyGO2024](https://github.com/vieira-tg/campuspartyGO2024)
-Projetos de IA aplicada com Spring Boot apresentados na Campus Party Goiás 2024.
-
-`Java 21` `Spring Boot` `Spring AI` `Ollama` `OpenAI`
-
-### [Factivel](https://github.com/vieira-tg/Factivel)
-Aplicativo desktop em Python/PySide6 para resolver problemas de Programação Linear, com método gráfico animado, Simplex de duas fases e validação cruzada com SciPy.
-
-`Python` `PySide6` `Matplotlib` `SciPy` `pytest`
-
-### [EdaMetricas](https://github.com/vieira-tg/Eda/tree/main/EdaMetricas)
-Aplicativo desktop para análise exploratória de dados, com oito abas de análise, testes estatísticos e veredito por tipo de tarefa de machine learning.
-
-`Python` `PySide6` `Qt 6` `Análise de dados`
-
 ## Contato
 
 <p align="left">
